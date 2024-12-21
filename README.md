@@ -1,8 +1,3 @@
-This repository contains the code for the HW1 of the "Applied Python" AI24 HSE course.
+HW1 of the "Applied Python" HSE course.
 
-Used tools:
-* Streamlit
-* OpenWeather API
-* aiohttp
-
-Streamlit cloud app: https://ai24apphw-3wdccqy3sup25vappcrtrg.streamlit.app/
+Streamlit cloud app: https://appliedpythonhw1-sjqeeerxfc4wgk7pazso4v.streamlit.app/
